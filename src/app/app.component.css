@@ -1,0 +1,7 @@
+.container {
+    max-width:1000px;
+}
+.navbar-brand>img {
+  height: 100px;
+  width: 100px;
+}
